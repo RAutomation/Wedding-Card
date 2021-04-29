@@ -26,7 +26,7 @@ inviting you and your family to elder sister's wedding to be held on **21th Nove
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'Roshan & Vibha';
 
 // Nov 21, 2021
 const weddingDate = new Date(2021, 11, 21);
