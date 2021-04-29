@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **21th November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Amravati, Maharashtra from 11:00 AM** onwards.
+inviting you and your family to elder sister's wedding to be held on **21st November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Amravati, Maharashtra from 11:00 AM** onwards.
 
 - [Download](https://drive.google.com/uc?id=1woMMPKiMa5FvVApgSiAZZbtbw7YGoy3Z&export=download) the Invitation card
 
