@@ -8,21 +8,21 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://flamboyant-yonath-f9ed10.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **21th November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 11:00 AM** onwards.
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
-- Visit the [website](https://sonali.netlify.app/) for more details
+- Visit the [website](https://flamboyant-yonath-f9ed10.netlify.app/) for more details
 
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
+- See the Facebook [post]()
 
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+- See the [Tweet]()
 
 ```js
 
@@ -51,14 +51,14 @@ const weddingVenue = new Location('Ashirwad Garden, Ranchi');
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
+- *Replace the date in [script.js](https://github.com/RAutomation/Wedding-Card/master/js/script.js#L29) to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
 var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
+- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/RAutomation/Wedding-Card/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
 
 ```html
 <div class="music">
@@ -71,8 +71,8 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
+Tag me to share your wedding story on Twitter([@Vinit_Shahdeo]()) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
-**Vinit Shahdeo**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+**Roshan Kumar Gupta**<i></sup><br>
+[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)]()
