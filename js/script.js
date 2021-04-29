@@ -1,5 +1,5 @@
 /**
- * @author Roshan Kumar Gupta <vinitshahdeo@gmail.com>
+ * @author Roshan Kumar Gupta <roshankgupta93@gmail.com>
  */
 (function ($) {
     "use strict";
