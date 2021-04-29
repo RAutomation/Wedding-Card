@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://flamboyant-yonath-f9ed10.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://flamboyant-yonath-f9ed10.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 21, 2021 <br> <a href="https://sonali.netlify.app/">Click on This</a></h1>
+<h1 align="center"><a href="https://flamboyant-yonath-f9ed10.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 21, 2021 <br> <a href="https://flamboyant-yonath-f9ed10.netlify.app/">Click on This</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
@@ -14,9 +14,9 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **21th November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Amravati, Maharashtra from 11:00 AM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/RAutomation/Wedding-Card/raw/master/docs/Roshan%20%26%20Vibha.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://goo.gl/maps/AyfRz5jHwr7qQ4z97) on Google map
 
 - Visit the [website](https://flamboyant-yonath-f9ed10.netlify.app/) for more details
 
@@ -28,18 +28,18 @@ inviting you and your family to elder sister's wedding to be held on **21th Nove
 
 const newCouple = 'Sonali & Gagan';
 
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+// Nov 21, 2021
+const weddingDate = new Date(2021, 11, 21);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+// Wedding venue: https://goo.gl/maps/AyfRz5jHwr7qQ4z97
+const weddingVenue = new Location('Parinay Bandh Banquet, Amravati');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://netlify.app/')
     );
 })();
 
@@ -55,7 +55,7 @@ To reuse this, follow the steps:
 
 ```js
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
+var countDownDate = new Date("Nov 21, 2021 00:00:00").getTime();
 ```
 
 - *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/RAutomation/Wedding-Card/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
@@ -71,8 +71,8 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo]()) :yellow_heart:
+Tag me to share your wedding story on Twitter([@Rosh4yuh]()) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
 **Roshan Kumar Gupta**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)]()
+[![Twitter Follow @roshn4yuh](https://img.shields.io/twitter/follow/Rosh4yuh?style=social)]()
