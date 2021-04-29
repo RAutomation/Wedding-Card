@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">Click on This</a></h1>
+<p align="center"><a href="https://flamboyant-yonath-f9ed10.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://flamboyant-yonath-f9ed10.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 21, 2021 <br> <a href="https://sonali.netlify.app/">Click on This</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **21th November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 11:00 AM** onwards.
+inviting you and your family to elder sister's wedding to be held on **21th November at [Parinay Hall](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Amravati, Maharashtra from 11:00 AM** onwards.
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
